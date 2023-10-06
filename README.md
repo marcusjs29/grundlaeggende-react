@@ -1,4 +1,4 @@
-# Hide and Seek quest game, very fun, yes?
+# Hide and Seek
 
 In this Project, I've created a button that changes the title of the website, depending on the click of the button.
 
